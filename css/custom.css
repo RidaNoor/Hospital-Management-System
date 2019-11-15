@@ -1,0 +1,7 @@
+#test_table{
+	border:1px solid;
+}
+#test_table td:first-child{
+	width: 700px;
+	text-align: left;
+}
